@@ -8,7 +8,9 @@ img {
     height: auto;
 }
 
-
+.header-img-containe {
+  border-bottom: 2px #5305bf solid ;
+}
 
 
 .container {
