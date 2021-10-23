@@ -1,6 +1,20 @@
 # THE DUPRO STUDIO PROJECT
 ## LIST OF DESIGN AND DEVELOPMENT STEP
 
+
+## Task | Completed
+[ -] top of the page design finish
+- deleting all unnecesary images
+- reorganized folders 
+
+## Comming Soon
+
+1. main content design
+2. footer design
+3. adding links 
+
+
+
 1. ## Plan with a goal
 
 ``` 
