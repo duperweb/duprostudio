@@ -1,0 +1,10 @@
+header, img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+header img {
+    max-width: 100%;
+    
+}
+
